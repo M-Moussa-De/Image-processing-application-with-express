@@ -35,9 +35,8 @@ by running the following script: 
 
 a valid image name, 100px <= width, height <= 1200px must be given
 
-5.To test some cases run the following script
+5.Run the following script for testing
 `npm run test`
 
-# assets/images are where the original images
-
-# output/imgs folder is where the rezised images will be saved
+assets/images are where the original images
+output/imgs folder is where the rezised images will be saved
