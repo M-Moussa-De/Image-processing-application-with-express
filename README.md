@@ -17,16 +17,16 @@ ESLint, Prettier: to format code according to our rule
 
 ## How to successfully run it
 
-1.You should install the dependencies and devdependencies
+1. You should install the dependencies and devdependencies
 by running the following script: 
 `npm install`
 
-2.Run the following command to convert the TS code into JavaScript
+2. Run the following command to convert the TS code into JavaScript
 `npm run build`
 
-3.To run the server `npm run serve`
+3. To run the server `npm run serve`
 
-4.Visit the following address
+4. Visit the following address
 [basic url](http://localhost:3000/api/images?filename=&width=&height=)
 
 \*After the equal sign '=', you can type the proper values you want.
@@ -35,8 +35,9 @@ by running the following script: 
 
 a valid image name, 100px <= width, height <= 1200px must be given
 
-5.Run the following script for testing
+5. Run the following script for testing
 `npm run test`
 
 assets/images are where the original images
+
 output/imgs folder is where the rezised images will be saved
