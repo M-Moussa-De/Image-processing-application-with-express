@@ -2,9 +2,9 @@
 
 ## Overview
 
-The first project of the advanced web application Nondegree
-on Udacity web platform. Image name with the desired width and height
-will be resized.
+The first project of the advanced web track Nondegree
+on Udacity platform. Image name with the desired width and height
+will be resized/processed.
 
 Using dependencies and devdependencies to help by processing images
 express: to create a server
@@ -13,7 +13,7 @@ sharp: to process images
 dotenv: to call the process/env
 nodemon: to run the server and watch any changes
 jasmine: to test code
-ESLint, Prettier: to format code according to our rule
+ESLint, Prettier: to format code according to desired rules
 
 ## How to successfully run it
 
